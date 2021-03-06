@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/data/data/com.termux/files/usr/bin/node',
+1 verbose cli   '/data/data/com.termux/files/usr/bin/npm',
+1 verbose cli   'run',
+1 verbose cli   'start'
+1 verbose cli ]
+2 info using npm@6.14.10
+3 info using node@v14.15.4
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle my-app@0.1.0~prestart: my-app@0.1.0
+6 info lifecycle my-app@0.1.0~start: my-app@0.1.0
+7 verbose lifecycle my-app@0.1.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle my-app@0.1.0~start: PATH: /data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/data/data/com.termux/files/home/my-app/node_modules/.bin:/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets
+9 verbose lifecycle my-app@0.1.0~start: CWD: /data/data/com.termux/files/home/my-app
+10 silly lifecycle my-app@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+11 timing npm Completed in 73701ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
